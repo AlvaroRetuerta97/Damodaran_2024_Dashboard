@@ -1,4 +1,4 @@
 # Damodaran_2024_Dashboard
-I present some data analysisi and visuals using the Financial Datasets from Damodaran for the year 2024
+I present some data analysis and visuals using the Financial Datasets from Damodaran for the year 2024
 
 Data available here: https://pages.stern.nyu.edu/~adamodar/
